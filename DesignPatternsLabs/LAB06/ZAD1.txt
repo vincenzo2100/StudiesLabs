@@ -1,0 +1,7 @@
+Wzorzec projektowy Fabryka (Factory Pattern) jest jednym z fundamentalnych wzorców kreacyjnych, który pozwala na tworzenie obiektów bez konieczności określania dokładnego typu obiektu, który ma być tworzony. Wzorzec ten abstrahuje proces tworzenia obiektów, co umożliwia bardziej elastyczne i łatwiejsze do utrzymania zarządzanie kodem.
+
+Najczęstsze zastosowania
+1.Zarządzanie skomplikowanym procesem tworzenia obiektów
+2.Tworzenie różnych wariantów obiektów
+3.Ułatwienie testowania jednostkowego
+4.Redukcja zależności między kodem a konkretnymi klasami

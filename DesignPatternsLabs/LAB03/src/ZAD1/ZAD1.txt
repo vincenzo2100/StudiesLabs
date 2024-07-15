@@ -1,0 +1,1 @@
+Wzorzec dekoratora pozwala na elastyczne i modułowe projektowanie aplikacji poprzez umożliwienie dynamicznego dodawania funkcjonalności w czasie działania programu. Dzięki temu wzorzec ten jest często wykorzystywany w sytuacjach, gdzie potrzebna jest wysoka elastyczność i łatwa możliwość rozszerzania funkcjonalności istniejących obiektów.

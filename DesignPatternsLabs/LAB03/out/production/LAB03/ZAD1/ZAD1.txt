@@ -1,0 +1,1 @@
+Najczęstsze wykorzystanie wzorca dekoratora występuje w sytuacjach, gdy potrzebujemy elastycznie modyfikować zachowanie lub właściwości istniejących obiektów, zachowując jednocześnie ich interfejs.
